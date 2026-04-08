@@ -13,17 +13,17 @@ Unlike traditional scripted pipelines, this system:
 🏗️ Architecture
 
 User Input
-
 ↓
+
 Planner Agent (task breakdown)
-
 ↓
+
 Dynamic Delegation (Claude decides next agent)
-
 ↓
+
 Execution Loop (agents collaborate)
-
 ↓
+
 Final Output
 
 
